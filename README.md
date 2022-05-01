@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Instalation
- -> Create the Database (pgAdmin) as in env.file or Database/migrations/migrations-db.php
- -> run: $ Composer install (to instal all dependencies)
- -> run: $ php artisan doctrine:schema:create (to create all DB objects based on DoctrineOrm Models)
- -> run: $ php artisan serve (to run the project)
+ -> Create the Database (pgAdmin) as in env.file or Database/migrations/migrations-db.php <br>
+ -> run: $ Composer install (to instal all dependencies)<br>
+ -> run: $ php artisan doctrine:schema:create (to create all DB objects based on DoctrineOrm Models)<br>
+ -> run: $ php artisan serve (to run the project)<br>
