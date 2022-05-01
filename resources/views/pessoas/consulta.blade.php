@@ -114,7 +114,6 @@
         </div> 
     </div>
     @foreach ($pessoas as $pes) 
-    
     <!-- Criar os Modais de exclusão-->
     <div class="modal fade" id="ex-{{ $pes->getId() }}" tabindex="-1" role="dialog" aria-labelledby="excluirModalLabel" aria-hidden="true">
         <div class="modal-dialog">
