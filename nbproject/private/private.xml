@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Applications/wamp/www/magaApp/app/Http/Controllers/ContatoController.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/resources/views/layouts/footer.blade.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/app/Http/Controllers/ControllerPadrao.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/config/bootstrap.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/app/Http/Controllers/Controller.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/app/Http/Controllers/PessoaController.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/routes/web.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/database/migrations/Version20220426130924.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/app/Models/Pessoa.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/resources/views/layouts/contatos/consulta.blade.php</file>
+            <file>file:/E:/Applications/wamp/www/magaApp/resources/views/pessoas/consulta.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
